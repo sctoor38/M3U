@@ -1,0 +1,17 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="5276" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:149C:7DB:2:11A0000:0:0:0:" tvg-name="Sky One",Sky One
+#EXTVLCOPT:program=5276
+http://192.168.1.252:8001/4097:0:1:149C:7DB:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="6520" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1978:7E6:2:11A0000:0:0:0:" tvg-name="W",W
+#EXTVLCOPT:program=6520
+http://192.168.1.252:8001/4097:0:1:1978:7E6:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="6520" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1978:7E6:2:11A0000:0:0:0:" tvg-name="W",W
+#EXTVLCOPT:program=6520
+http://192.168.1.252:8001/4097:0:1:1978:7E6:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="5276" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:149C:7DB:2:11A0000:0:0:0:" tvg-name="Sky One",Sky One
+#EXTVLCOPT:program=5276
+http://192.168.1.252:8001/4097:0:1:149C:7DB:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="6520" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1978:7E6:2:11A0000:0:0:0:" tvg-name="W",W
+#EXTVLCOPT:program=6520
+http://192.168.1.252:8001/4097:0:1:1978:7E6:2:11A0000:0:0:0:

@@ -1,0 +1,38 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="6961" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1B31:802:2:11A0000:0:0:0:" tvg-name="BBC One",BBC One
+#EXTVLCOPT:program=6961
+http://192.168.1.252:8001/4097:0:1:1B31:802:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10122" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:278A:805:2:11A0000:0:0:0:" tvg-name="ITV",ITV
+#EXTVLCOPT:program=10122
+http://192.168.1.252:8001/4097:0:1:278A:805:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="7701" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1E15:809:2:11A0000:0:0:0:" tvg-name="Channel 5",Channel 5
+#EXTVLCOPT:program=7701
+http://192.168.1.252:8001/4097:0:1:1E15:809:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10202" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:27DA:806:2:11A0000:0:0:0:" tvg-name="ITV2",ITV2
+#EXTVLCOPT:program=10202
+http://192.168.1.252:8001/4097:0:1:27DA:806:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="7715" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1E23:809:2:11A0000:0:0:0:" tvg-name="5 Star",5 Star
+#EXTVLCOPT:program=7715
+http://192.168.1.252:8001/4097:0:1:1E23:809:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="6301" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:189D:7FD:2:11A0000:0:0:0:" tvg-name="BBC One",BBC One
+#EXTVLCOPT:program=6301
+http://192.168.1.252:8001/4097:0:1:189D:7FD:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="6301" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:189D:7FD:2:11A0000:0:0:0:" tvg-name="BBC One",BBC One
+#EXTVLCOPT:program=6301
+http://192.168.1.252:8001/4097:0:1:189D:7FD:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10122" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:278A:805:2:11A0000:0:0:0:" tvg-name="ITV",ITV
+#EXTVLCOPT:program=10122
+http://192.168.1.252:8001/4097:0:1:278A:805:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10122" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:278A:805:2:11A0000:0:0:0:" tvg-name="ITV",ITV
+#EXTVLCOPT:program=10122
+http://192.168.1.252:8001/4097:0:1:278A:805:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="7701" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1E15:809:2:11A0000:0:0:0:" tvg-name="Channel 5",Channel 5
+#EXTVLCOPT:program=7701
+http://192.168.1.252:8001/4097:0:1:1E15:809:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="7701" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1E15:809:2:11A0000:0:0:0:" tvg-name="Channel 5",Channel 5
+#EXTVLCOPT:program=7701
+http://192.168.1.252:8001/4097:0:1:1E15:809:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10202" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:27DA:806:2:11A0000:0:0:0:" tvg-name="ITV2",ITV2
+#EXTVLCOPT:program=10202
+http://192.168.1.252:8001/4097:0:1:27DA:806:2:11A0000:0:0:0:

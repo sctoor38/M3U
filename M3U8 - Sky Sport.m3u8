@@ -1,0 +1,17 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="4214" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1076:7EA:2:11A0000:0:0:0:" tvg-name="SkySp MainEv",SkySp MainEv
+#EXTVLCOPT:program=4214
+http://192.168.1.252:8001/4097:0:1:1076:7EA:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="4214" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1076:7EA:2:11A0000:0:0:0:" tvg-name="SkySp MainEv",SkySp MainEv
+#EXTVLCOPT:program=4214
+http://192.168.1.252:8001/4097:0:1:1076:7EA:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="5557" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:15B5:7EA:2:11A0000:0:0:0:" tvg-name="SkySp Pl",SkySp Pl
+#EXTVLCOPT:program=5557
+http://192.168.1.252:8001/4097:0:1:15B5:7EA:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="5557" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:15B5:7EA:2:11A0000:0:0:0:" tvg-name="SkySp Pl",SkySp Pl
+#EXTVLCOPT:program=5557
+http://192.168.1.252:8001/4097:0:1:15B5:7EA:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="3838" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:EFE:7E7:2:11A0000:0:0:0:" tvg-name="SkySp F'ball",SkySp F'ball
+#EXTVLCOPT:program=3838
+http://192.168.1.252:8001/4097:0:1:EFE:7E7:2:11A0000:0:0:0:

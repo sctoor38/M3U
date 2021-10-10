@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="10122" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:278A:805:2:11A0000:0:0:0:" tvg-name="ITV London",ITV London
+#EXTVLCOPT:program=10122
+http://192.168.1.252:8001/4097:0:1:278A:805:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="20750" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:510E:80F:2:11A0000:0:0:0:" tvg-name="ITV Tyne Tees",ITV Tyne Tees
+#EXTVLCOPT:program=20750
+http://192.168.1.252:8001/4097:0:1:510E:80F:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10147" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:27A3:805:2:11A0000:0:0:0:" tvg-name="ITV Wales",ITV Wales
+#EXTVLCOPT:program=10147
+http://192.168.1.252:8001/4097:0:1:27A3:805:2:11A0000:0:0:0:

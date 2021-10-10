@@ -1,0 +1,17 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="6301" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:189D:7FD:2:11A0000:0:0:0:" tvg-name="BBC One London",BBC One London
+#EXTVLCOPT:program=6301
+http://192.168.1.252:8001/4097:0:1:189D:7FD:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="6441" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1929:7FF:2:11A0000:0:0:0:" tvg-name="BBC One N West",BBC One N West
+#EXTVLCOPT:program=6441
+http://192.168.1.252:8001/4097:0:1:1929:7FF:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10305" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:2841:7FE:2:11A0000:0:0:0:" tvg-name="BBC One E Mid",BBC One E Mid
+#EXTVLCOPT:program=10305
+http://192.168.1.252:8001/4097:0:1:2841:7FE:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10356" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:2874:800:2:11A0000:0:0:0:" tvg-name="BBC One Oxford",BBC One Oxford
+#EXTVLCOPT:program=10356
+http://192.168.1.252:8001/4097:0:1:2874:800:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10311" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:2847:7FE:2:11A0000:0:0:0:" tvg-name="BBC One Wales",BBC One Wales
+#EXTVLCOPT:program=10311
+http://192.168.1.252:8001/4097:0:1:2847:7FE:2:11A0000:0:0:0:

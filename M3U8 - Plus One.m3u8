@@ -1,0 +1,14 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="7720" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1E28:809:2:11A0000:0:0:0:" tvg-name="Channel 5 +1",Channel 5 +1
+#EXTVLCOPT:program=7720
+http://192.168.1.252:8001/4097:0:1:1E28:809:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10165" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:27B5:805:2:11A0000:0:0:0:" tvg-name="ITV2 +1",ITV2 +1
+#EXTVLCOPT:program=10165
+http://192.168.1.252:8001/4097:0:1:27B5:805:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="7717" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:1E25:809:2:11A0000:0:0:0:" tvg-name="5 Star +1",5 Star +1
+#EXTVLCOPT:program=7717
+http://192.168.1.252:8001/4097:0:1:1E25:809:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="25110" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:6216:7E6:2:11A0000:0:0:0:" tvg-name="W +1",W +1
+#EXTVLCOPT:program=25110
+http://192.168.1.252:8001/4097:0:1:6216:7E6:2:11A0000:0:0:0:

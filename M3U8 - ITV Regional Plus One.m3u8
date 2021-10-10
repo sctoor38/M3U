@@ -1,0 +1,8 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="10155" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:27AB:805:2:11A0000:0:0:0:" tvg-name="ITV +1 London",ITV +1 London
+#EXTVLCOPT:program=10155
+http://192.168.1.252:8001/4097:0:1:27AB:805:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-chno="10155" tvg-logo="http://192.168.1.252/images/default_picon.png" tvg-id="4097:0:1:27AB:805:2:11A0000:0:0:0:" tvg-name="ITV +1 London",ITV +1 London
+#EXTVLCOPT:program=10155
+http://192.168.1.252:8001/4097:0:1:27AB:805:2:11A0000:0:0:0:
